@@ -3,6 +3,7 @@
 <div align="center">
 
 ```
+                    Hetal Savarde
   2nd year IT @ Atharva College of Engineering, Mumbai
   full-stack dev  ·  ai tinkerer  ·  always got coffee
 ```
@@ -18,7 +19,7 @@
 
 **learning** → Machine Learning with Python
 
-**looking for** → Summer 2026 SDE / Full-Stack Internship in Mumbai
+**looking for** → Summer 2026 SDE / Full-Stack Internship 
 
 ---
 

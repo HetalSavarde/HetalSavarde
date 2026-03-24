@@ -3,7 +3,6 @@
 <div align="center">
 
 ```
-                    Hetal Savarde
   2nd year IT @ Atharva College of Engineering, Mumbai
   full-stack dev  ·  ai tinkerer  ·  always got coffee
 ```

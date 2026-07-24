@@ -19,24 +19,6 @@
 
 **currently** → building things, open to internship opportunities
 
----
-
-## 🚀 Projects
-
-**[Media Organiser](https://github.com/HetalSavarde/Media_Organiser)** — local-first CLI tool that scans, deduplicates, and organises photos entirely offline. Trained a Random Forest classifier on hand-crafted image features (edge density, brightness, colour ratio) to separate screenshots from real photos — chosen over CNN because the dataset was too small to avoid overfitting. Two-pass deduplication via MD5 and perceptual hashing. DBSCAN face clustering that discovers the number of people automatically. Plan-before-execute architecture means nothing is touched until the user confirms.
-`Python` `OpenCV` `scikit-learn` `Pillow` `imagehash`
-
-**[Rent-A-Equip](https://github.com/HetalSavarde/Rent-A-Equip)** — sports equipment rental marketplace, team of 4. Owned the entire backend: FastAPI with async SQLAlchemy ORM, normalised PostgreSQL schema across 8 modules, rental lifecycle state machine enforced at the service layer, nightly Celery job for automated fine calculation backed by Redis. Containerised with Docker Compose.
-`FastAPI` `PostgreSQL` `Celery` `Redis` `Docker` `React`
-
-**[PennyPal](https://github.com/HetalSavarde/PennyPal)** — personal finance and bill-splitting platform, solo build. 10+ REST APIs in Spring Boot MVC, JWT auth with Spring Security, normalised MySQL schema, Next.js dashboard with real-time income/expense analytics via Recharts.
-`Spring Boot` `Next.js` `TypeScript` `MySQL` `JWT`
-
-**[OpportunityHub](https://github.com/HetalSavarde/OpportunityHub)** — AI-powered career discovery platform built at a hackathon. Gemini API resume parsing, Firebase Auth and Firestore, Node.js backend, deployed on GCP with NGINX.
-`Node.js` `TypeScript` `Firebase` `Gemini API` `GCP`
-
-**[Keyboard Clash](https://github.com/HetalSavarde/Keyboard-Clash)** — browser-based typing game, deployed live.
-`JavaScript` `HTML` `CSS`
 
 ---
 
